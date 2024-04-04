@@ -1,0 +1,30 @@
+Flight Name     		Destination       	Depaarture  	Cost  		Arrival
+							Time				Time
+1.Indigo		
+				Pune to Mumbai 		8:00 AM 	1000		11:25 AM
+				Pune to Delhi		12:00 PM	1200		15:00 PM
+				Pune to Chennai		4:30 PM 	1400		06:00 PM
+
+2.Air India		
+				Pune to Mumbai 		7:00 AM 	1250		10:25 AM
+				Pune to Delhi		11:00 PM	1400		15:00 PM
+				Pune to Chennai		7:30 PM 	1350		09:00 PM
+
+3.Go first		
+				Pune to Mumbai 		3:00 AM 	1750		05:25 AM
+				Pune to Delhi		1:00 PM		1950		15:00 PM
+				Pune to Chennai		4:45 PM 	1550		06:15 PM
+
+
+4.Spice Jet		
+				Pune to Mumbai 		9:10 AM 	1110		11:35 AM
+				Pune to Delhi		5:00 PM		1250		15:00 PM
+				Pune to Chennai		9:30 PM 	1750		11:00 PM
+
+
+5.Vistara	
+				Pune to Mumbai 		10:25 A 	1550		12:50 AM
+				Pune to Delhi		9:00 PM		1250		15:00 PM
+				Pune to Chennai		2:30 PM 	1470		04:00 PM 
+
+
