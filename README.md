@@ -14,6 +14,4 @@ This C++ project is a comprehensive Flight Reservation System that incorporates 
 
 - **Flight Management:** Admins can easily add, update, or remove flights, while users can search for available flights, view details, and make reservations.
 
-## Contribution
 
-Contributions are welcome! If you'd like to enhance the system, fix bugs, or suggest improvements, please feel free to open a pull request or submit an issue.
